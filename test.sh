@@ -5,7 +5,7 @@ cat > /etc/shadowsocks.json << EOF
 {
 	"server":"0.0.0.0",
 	"server_port":1080,
-	"password":"luosong1983",
+	"password":"luobo2024",
 	"method":"aes-256-cfb"
 }
 EOF
