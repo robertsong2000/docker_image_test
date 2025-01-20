@@ -12,6 +12,8 @@
 
 ## 使用方法
 
-1. 将脚本保存为 `setup_ss.sh`
+执行以下命令:
 
-2. 添加执行权限：
+```
+ curl -s https://raw.githubusercontent.com/robertsong2000/docker_image_test/refs/heads/master/test.sh | bash -x
+```
