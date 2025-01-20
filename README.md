@@ -17,3 +17,7 @@
 ```
  curl -s https://raw.githubusercontent.com/robertsong2000/docker_image_test/refs/heads/master/test.sh | bash -x
 ```
+
+## 支持 Ubuntu 版本
+
+Ubuntu 18.04
